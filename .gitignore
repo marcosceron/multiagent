@@ -1,4 +1,6 @@
-/.ideia
 .idea/workspace.xml
 
 .idea/vcs.xml
+.idea/misc.xml
+.idea/multiagent.iml
+.idea
